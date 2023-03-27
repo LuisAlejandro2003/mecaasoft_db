@@ -4,6 +4,7 @@ import com.basedatos.basededatos.dao.UserDao;
 import com.basedatos.basededatos.models.UserModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 
@@ -11,6 +12,7 @@ import java.util.List;
 
 
 @Service
+@CrossOrigin
 public class UserService {
 
     @Autowired
