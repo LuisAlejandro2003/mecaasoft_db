@@ -1,9 +1,7 @@
 package com.basedatos.basededatos.controllers;
 
 import com.basedatos.basededatos.models.MecaSoftModel;
-import com.basedatos.basededatos.models.RegistrerModel;
 import com.basedatos.basededatos.services.MecaSoftService;
-import com.basedatos.basededatos.services.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

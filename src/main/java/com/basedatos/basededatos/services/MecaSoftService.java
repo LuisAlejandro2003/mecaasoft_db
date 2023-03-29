@@ -1,8 +1,6 @@
 package com.basedatos.basededatos.services;
 
-import com.basedatos.basededatos.dao.GassDao;
 import com.basedatos.basededatos.dao.MecaSoftDao;
-import com.basedatos.basededatos.models.GassModel;
 import com.basedatos.basededatos.models.MecaSoftModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

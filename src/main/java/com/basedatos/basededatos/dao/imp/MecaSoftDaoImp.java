@@ -1,8 +1,6 @@
 package com.basedatos.basededatos.dao.imp;
 
-import com.basedatos.basededatos.dao.GassDao;
 import com.basedatos.basededatos.dao.MecaSoftDao;
-import com.basedatos.basededatos.models.GassModel;
 import com.basedatos.basededatos.models.MecaSoftModel;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
